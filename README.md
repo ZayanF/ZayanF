@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZayanF
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
